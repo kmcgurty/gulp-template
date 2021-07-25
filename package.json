@@ -1,0 +1,18 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "description": "Gulp template. You should probably change this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.27.4",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "map-stream": "0.0.7",
+    "preprocess": "^3.2.0"
+  }
+}
